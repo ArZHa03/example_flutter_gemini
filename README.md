@@ -2,6 +2,9 @@
 
 A Flutter example app demonstrating usage of the `flutter_gemini` package with several demo screens.
 
+## How to get Free API Key Gemini
+Follow instructions at https://apidog.com/ig/blog/google-gemini-api-key-for-free-3 to get your free API key.
+
 ## Ringkasan
 
 Aplikasi ini berisi beberapa contoh penggunaan API Gemini (melalui package `flutter_gemini`) termasuk:
