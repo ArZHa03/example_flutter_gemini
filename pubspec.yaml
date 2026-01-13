@@ -1,0 +1,22 @@
+name: example_flutter_gemini_new
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_gemini: ^3.0.0
+  image_picker: ^1.2.1
+  flutter_markdown_plus: ^1.0.7
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
